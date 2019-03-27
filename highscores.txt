@@ -1,0 +1,10 @@
+1ce, 1000
+agn, 900
+Iam, 800
+Regrtin, 700
+Mmm, 600
+I, 500
+Life, 400
+Desi, 300
+Cions, 200
+!!!, 100
